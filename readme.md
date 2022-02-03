@@ -1,2 +1,3 @@
-- [x] 通过guava包理解限流
-- [x] 通过nginx配置控制限流
+- [x] 通过 guava 包理解限流
+- [x] 通过 nginx 配置控制限流
+- [x] lua 入门
