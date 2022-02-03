@@ -6,7 +6,12 @@
 
   <groupId>com.imooc</groupId>
   <artifactId>rate-limit</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>ratelimit-annotation</module>
+    <module>ratelimit-test</module>
+  </modules>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
